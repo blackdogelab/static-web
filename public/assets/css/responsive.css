@@ -1,0 +1,668 @@
+/* Normal desktop :1700px. */
+@media (min-width: 1700px) and (max-width: 1920px) {
+
+
+}
+/* Normal desktop :1200px. */
+@media (min-width: 1500px) and (max-width: 1700px) {
+
+
+
+}
+/* Normal desktop :1200px. */
+@media (min-width: 1365px) and (max-width: 1499px) {
+
+
+
+}
+/* Normal desktop :1170px. */
+@media (min-width: 1170px) and (max-width: 1299px) {
+.slider-title h1 {
+    font-size: 50px;
+}
+.slider-title p {
+    font-size: 15px;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-title h2 {
+    font-size: 35px;
+}
+.about-text p {
+    font-size: 15px;
+}
+.why-choose-us h2 {
+    font-size: 34px;
+}
+.why-choose-us p {
+    font-size: 14px;
+}
+.main-title p {
+    font-size: 13px;
+}
+.service-title p {
+    font-size: 14px;
+}
+.chart-title ul li a {
+    width: 135px;
+    font-size: 13px;
+}
+.chart-title ul li span {
+    font-size: 12px;
+}
+.feature-title p {
+    font-size: 14px;
+}
+.road-map-title p {
+    font-size: 13px;
+}
+.faq-area .accordion p {
+    font-size: 15px;
+}
+.footer-icon ul li a {
+    font-size: 12px;
+}
+.footer-right-text p {
+    font-size: 12px;
+}
+.footers-logo img {
+    padding: 16px;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+.footer-title p {
+    font-size: 13px;
+}
+.footer-ico ul li {
+    padding: 3px 0 0 0;
+}
+.footer-icons p {
+    margin-bottom: 9px;
+}
+.shap_img {
+    display: none;
+}
+
+
+
+
+
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1170px) {
+.slider-title h1 {
+    font-size: 35px;
+}
+.slider-button a {
+    font-size: 14px;
+    padding: 10px 15px;
+}
+.slider-btn a {
+    font-size: 14px;
+    padding: 10px 15px;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-title h2 {
+    font-size: 31px;
+}
+.about-text p {
+    font-size: 14px;
+}
+.why-choose-us h2 {
+    font-size: 30px;
+}
+.why-choose-us p {
+    font-size: 14px;
+}
+.main-title p {
+    font-size: 13px;
+}
+.service-title p {
+    font-size: 14px;
+}
+.chart-title ul li a {
+    font-size: 14px;
+    width: 140px;
+}
+.chart-title ul li span {
+    font-size: 12px;
+}
+.feature-title p {
+    font-size: 13px;
+}
+.road-map-title p {
+    font-size: 13px;
+}
+.shap_img {
+    display: none;
+}
+.faq-area .accordion p {
+    font-size: 14px;
+}
+.footer-title p {
+    font-size: 12px;
+}
+.footer-title h5 {
+    font-size: 18px;
+}
+.footer-icon ul li a {
+    font-size: 14px;
+}
+.footer-ico ul li {
+    padding: 0;
+}
+.footer-icons p {
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+.footer-area .form_box {
+    margin-top: 20px;
+}
+.footer-area .form-button button {
+    font-size: 12px;
+}
+.footer-area .form-button {
+    top: 69px;
+}
+.footer-right-text p {
+    font-size: 13px;
+}
+.footers-logo img {
+    margin-right: 25px;
+    margin-top: 5px;
+}
+
+
+
+}
+/* small mobile :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.slider-title h1 {
+    font-size: 35px;
+}
+.slider-title p {
+    font-size: 14px;
+}
+.slider-button a {
+    font-size: 12px;
+    padding: 6px 14px;
+}
+.slider-btn a {
+    font-size: 12px;
+    padding: 6px 14px;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-title h2 {
+    font-size: 25px;
+}
+.about-num span {
+    font-size: 23px;
+    margin: 25px 20px 24px 0;
+}
+.about-text p {
+    font-size: 14px;
+}
+.about-text {
+    padding: 17px 0 0;
+}
+.about-area {
+    padding: 50px 0 0;
+}
+.why-choose-us h2 {
+    font-size: 25px;
+}
+.why-choose-us p {
+    font-size: 13px;
+}
+.why-choose-us-button a {
+    font-size: 15px;
+    padding: 8px 16px;
+}
+.why-choose-us-thumb img {
+    width: 100%;
+}
+.shaps-imgs {
+    top: 0px;
+    left: 130px;
+}
+.main-title p {
+    font-size: 15px;
+}
+.token-title p {
+    font-size: 13px;
+}
+.skills-text {
+    font-size: 12px;
+}
+.chart-title ul li a {
+    font-size: 13px;
+    width: 130px;
+}
+.chart-title ul li span {
+    font-size: 9px;
+    padding: 8px 4px;
+}
+.tokan-chart {
+    padding: 0 0 30px;
+}
+.feature-title p {
+    font-size: 13px;
+}
+.single-features-box {
+    margin-left: 46px;
+}
+.feature-area {
+    padding: 60px 0 0px;
+}
+.road-map-title p {
+    font-size: 9px;
+}
+.road-map-title h4 {
+    font-size: 16px;
+}
+.shap_img {
+    display: none;
+}
+.road-map-area {
+    padding: 25px 0 39px;
+}
+.road-map-box::before {
+    top: 65px;
+}
+.road-map-box.upper::before {
+    top: 75px;
+}
+.team-area {
+    padding: 30px 0 0;
+}
+.brand-area {
+    padding: 0px 0 70px;
+}
+.faq-title h3 {
+    font-size: 25px;
+}
+.faq-area .accordion p {
+    font-size: 11px;
+}
+.copy-right-title ul li a {
+    font-size: 13px;
+}
+.copy-right-title ul li {
+    margin-right: 10px;
+}
+.copy-left-title h3 {
+    font-size: 14px;
+}
+.footer-right-text p {
+    font-size: 14px;
+    width: 80%;
+}
+.slider-thumb img {
+    width: 100%;
+}
+.about-title h4 {
+    font-size: 15px;
+}
+.about-title h4::before {
+    left: 200px;
+}
+.about-title h4::after {
+    left: 200px;
+}
+.main-title h3 {
+    font-size: 30px;
+}
+.service-area {
+    padding: 40px 0 30px;
+}
+.slider-area {
+    height: 600px;
+}
+svg {
+    width: 350px;
+    height: 350px;
+}
+.single-tokens-box {
+    text-align: center;
+}
+
+
+}
+/* small mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.slider-title h1 {
+    font-size: 30px;
+}
+.slider-title h3 {
+    font-size: 15px;
+}
+.slider-title h3 span {
+    padding: 0px 8px;
+}
+.slider-thumb img {
+    display: none;
+}
+.single-slider-box {
+    margin-top: 70px;
+}
+.about-thumb-box {
+    margin-bottom: 50px;
+}
+.about-title h2 {
+    font-size: 30px;
+}
+.why-choose-us h2 {
+    font-size: 34px;
+}
+.why-choose-us p {
+    font-size: 12px;
+}
+.why-choose-us {
+    padding: 0px 0 40px;
+}
+.why-choose-us-box {
+    margin-bottom: 50px;
+}
+.main-title h3 {
+    font-size: 30px;
+}
+.main-title p {
+    font-size: 14px;
+    width: 80%;
+}
+.chart-title ul li span {
+    font-size: 15px;
+}
+.single-chart-box {
+    margin-bottom: 40px;
+}
+.tokan-chart {
+    padding: 0 0 0px;
+}
+.single-feature-box {
+    padding: 0 0 75px 36px;
+    margin-right: 120px;
+}
+.single-tbm-box {
+    padding: 0 15px 40px;
+}
+.single-features-box {
+    padding: 70px 63px 0 0px;
+    margin-left: 95px;
+}
+.shap_img {
+    display: none;
+}
+.road-map-box::before {
+    top: 85px;
+}
+.road-map-title p {
+    font-size: 15px;
+}
+.faq-area .accordion p {
+    font-size: 13px;
+}
+.faq-area .faq-box {
+    margin-bottom: 30px;
+}
+.footer-title p {
+    text-align: center;
+}
+.footer-title h5 {
+    float: inherit;
+}
+.single-footer-box {
+    text-align: center;
+}
+.footer-icons p {
+    text-align: center;
+}
+.footer-area .form_box input {
+    width: 35%;
+}
+.footer-area .form-button {
+    right: 60px;
+    top: 53px;
+}
+.footer-title h2 {
+    margin-bottom: 0px;
+}
+.footers-logo img {
+    float: inherit;
+    margin-right: 0px;
+
+}
+.footer-area .form_box {
+    margin-left: -88px;
+}
+.footer-area .form-button {
+    right: 104px;
+}
+.copy-left-title h3 {
+    text-align: center;
+}
+.copy-right-title ul li {
+    margin-right: 12px;
+}
+.copy-right-title {
+    text-align: center;
+}
+.single-tokens-box {
+    margin-top: 430px;
+}
+
+
+
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+.slider-title h3 {
+    font-size: 10px;
+}
+.slider-title h1 {
+    font-size: 20px;
+}
+.slider-title h3 span {
+    padding: 0px 6px;
+}
+.about-thumb {
+    display: none;
+}
+.slider-title p {
+    font-size: 12px;
+}
+.slider-button a {
+    font-size: 12px;
+    padding: 7px 10px;
+}
+.slider-btn a {
+    font-size: 12px;
+    padding: 7px 10px;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-thumb-box {
+    margin-bottom: 40px;
+}
+.about-title h4 {
+    font-size: 13px;
+}
+.about-title h4::before {
+    top: 5px;
+    left: 177px;
+}
+.about-title h4::after {
+    top: 11px;
+    left: 177px;
+}
+.about-title h2 {
+    font-size: 20px;
+}
+.about-text h5 {
+    font-size: 15px;
+}
+.about-text p {
+    font-size: 12px;
+}
+.about-num span {
+    margin: 0 20px 27px 0;
+}
+.about-area {
+    padding: 90px 0 0px;
+}
+.why-choose-us h2 {
+    font-size: 22px;
+}
+.why-choose-us p {
+    font-size: 11px;
+}
+.why-choose-us-button a {
+    font-size: 12px;
+    padding: 6px 15px;
+}
+.why-choose-us-thumb img {
+    width: 100%;
+}
+.why-choose-us-box {
+    margin-bottom: 40px;
+}
+.shaps-imgs {
+    top: -6px;
+    left: 123px;
+}
+.why-choose-us {
+    padding: 60px 0 0px;
+}
+.main-title h3 {
+    font-size: 20px;
+}
+.main-title p {
+    font-size: 11px;
+    width: 90%;
+}
+.service-area {
+    padding: 40px 0 0;
+}
+.token-title p {
+    font-size: 12px;
+    line-height: 1.5;
+}
+dt.skill-name {
+    font-size: 10px;
+}
+.chart-title ul li a {
+    font-size: 11px;
+    width: 114px;
+}
+.chart-title ul li span {
+    font-size: 7px;
+}
+.tokan-chart {
+    padding: 0 0 0px;
+}
+.single-feature-box {
+    margin-right: 39px;
+}
+.feature-title p {
+    font-size: 10px;
+}
+.single-tbm-box {
+    padding: 0px 15px 70px;
+}
+.single-features-box {
+    margin-left: 19px;
+}
+.shap_img {
+    display: none;
+}
+.road-map-title p {
+    font-size: 9px;
+}
+.road-map-box::before {
+    top: 76px;
+}
+.road-map-box.upper::before {
+    top: 80px;
+}
+.team-title {
+    padding: 12px 0 5px;
+}
+.faq-title h3 {
+    font-size: 22px;
+}
+.faq-area .accordion a {
+    font-size: 11px;
+}
+.faq-area .accordion p {
+    font-size: 11px;
+}
+.copy-right-title ul li {
+    margin-right: 6px;
+}
+.copy-right-title ul li a {
+    font-size: 12px;
+}
+.footer-title h2 {
+    margin-bottom: 10px;
+}
+.footer-icons p {
+    text-align: center;
+}
+.single-footer-box {
+    text-align: center;
+}
+.footer-area .form_box input {
+    margin-left: -114px;
+}
+.footer-area .form-button {
+    top: 64px;
+    right: 15px;
+}
+.footers-logo img {
+    float: inherit;
+}
+.copy-left-title h3 {
+    font-size: 14px;
+    text-align: center;
+}
+.single-tokens-box {
+    margin-top: 430px;
+    text-align: center;
+}
+svg {
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
+
+}
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 991px) {
+
+.main-header {
+    display: none!important;
+}
+header.main-header {
+    display: none;
+}
+
+
+
+
+
+}
+
