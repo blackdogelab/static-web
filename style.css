@@ -1051,7 +1051,7 @@ span.dash::before {
     z-index: 1;
 }
 .road-map-box.upper {
-    margin-left: 30px;
+    margin-left: 50px;
     margin-right: 0;
 }
 .road-map-title h4 {
@@ -1079,7 +1079,7 @@ span.dash::before {
     padding-top: 15px;
 }
 .road-button-box {
-    padding: 95px 0;
+    padding: 40px 0;
 }
 .road-map-button {
     text-align: right;
@@ -1158,7 +1158,6 @@ span.dash::before {
     left: 12px;
     right: 0;
     margin: auto;
-    text-align: center;
     z-index: -1;
 }
 /*<!-- ============================================================== -->
