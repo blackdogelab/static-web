@@ -62,7 +62,7 @@
 <!-- Start  slider-area   Css -->
 <!-- ============================================================== -->*/
 .slider-area {
-    background: url(assets/images/Untitled-1.jpg);
+  /* background: url(assets/images/Untitled-1.jpg); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
