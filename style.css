@@ -1181,6 +1181,13 @@ span.dash::before {
     top: -70px;
     z-index: 11;
 }
+.dapp-title {
+    text-align: center;
+    background: #dfc141;
+    border-radius: 5px;
+    position: relative;
+    z-index: 11;
+}
 .team-title {
     text-align: center;
     background: #dfc141;
